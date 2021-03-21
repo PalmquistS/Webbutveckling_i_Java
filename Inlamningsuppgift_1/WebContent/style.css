@@ -1,0 +1,17 @@
+
+body {
+	background-color: lightgray;
+	height: 100%
+}
+
+.header h1 {
+	text-align: center;
+	color: green;
+}
+
+.footer {
+	
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+}
